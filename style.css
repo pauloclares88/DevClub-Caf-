@@ -1,0 +1,23 @@
+body {
+    background-image: url("https://i.ibb.co/4tyMDQ0/cafe-1.jpg");
+    background-size: cover;
+    padding: 30px;
+}
+
+
+h1 {
+    color: #FFFAFA;
+    font-size: 50px;
+}
+
+p {
+    color: #EEE8AA;
+    font-size: 25px;
+
+}
+
+button {
+    font-size: 20px;
+    cursor: pointer;
+
+}
